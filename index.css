@@ -1,6 +1,6 @@
 /*css for index.html*/
 html{
-background-color: #FFA;}
+background-color: #007a33;}
 
 body{
 background-color:#FFA;
@@ -35,7 +35,6 @@ h1 {
 }
 
 h2 {
-    font-size: 120%;
     font-family: serif;
 }
 p {
@@ -83,7 +82,7 @@ ul {
     clear: both;
     border: 1px solid #FFF;
     width: 20%;
-    height: 447px;
+    height: 1000px;
     background-color: #F0F8FF;
     text-align: center;
 
