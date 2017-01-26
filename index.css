@@ -82,18 +82,18 @@ ul {
     clear: both;
     border: 1px solid #FFF;
     width: 20%;
-    height: 1000px;
+    height: 3000px;
     background-color: #F0F8FF;
     text-align: center;
 
 }
 #favorite {
     border-radius: 0px 10px 10px 0px;
-    line-height: 3.5em;
+    line-height: 3.5px;
     margin-top: -23.6%;
     float: right;
     width: 20%;
-    height: 660px;
+    height: 3000px;
     text-align:center;
     background-color: #F0F8FF;
 
