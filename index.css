@@ -46,6 +46,15 @@ p {
 ul {
     list-style-type: square;
 }
+.websites {
+    list-style-type: square;
+}
+.examlist {
+    line-height: 3em;
+    list-style-type: none;
+    width:75px;
+
+}
 #qrcode {
     float: left;
     border: 1px solid #F0F8FF;
@@ -57,9 +66,9 @@ ul {
 }
 #toonstrip {
     float: left;
-    padding: 2px;
-    margin-top: 30px;
-    margin-left: 10px;
+    padding: 2em;
+    margin-top: 6.9%px;
+    margin-left: -2%;
     margin-right: auto;
     width: 30%;
     height: 30%;
@@ -82,18 +91,18 @@ ul {
     clear: both;
     border: 1px solid #FFF;
     width: 20%;
-    height: 3000px;
+    height: 1000px;
     background-color: #F0F8FF;
     text-align: center;
 
 }
 #favorite {
     border-radius: 0px 10px 10px 0px;
-    line-height: 3.5px;
+    line-height: 3.5em;
     margin-top: -23.6%;
     float: right;
     width: 20%;
-    height: 3000px;
+    height: 1000px;
     text-align:center;
     background-color: #F0F8FF;
 
