@@ -1,4 +1,6 @@
 html{
+	background-color: red;
+}
 
 a:link{	color:pink;
 }
@@ -18,4 +20,3 @@ td{
 	background-color:mintcream;
 }
 
-}
