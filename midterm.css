@@ -1,11 +1,11 @@
-a {
-	color:silver;
-	background-color:yellow;
+html{
+
+a:link{	color:pink;
 }
 
 a:visited{color:lightblue;}
 
-a:active{color:limegreen;font-weight:bold;}
+a:active{color:limegreen;}
 
 a:hover{color:mistyrose;font-weight:bold;}
 
@@ -16,4 +16,6 @@ table{
 
 td{
 	background-color:mintcream;
+}
+
 }
