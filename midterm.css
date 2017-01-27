@@ -1,0 +1,19 @@
+a {
+	color:silver;
+	background-color:yellow;
+}
+
+a:visited{color:lightblue;}
+
+a:active{color:limegreen;font-weight:bold;}
+
+a:hover{color:mistyrose;font-weight:bold;}
+
+table{
+	background-color:blue;
+	padding:15px;
+}
+
+td{
+	background-color:mintcream;
+}
